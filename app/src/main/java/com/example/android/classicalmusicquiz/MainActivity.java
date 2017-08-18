@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * The OnClick method for the New Game button that starts a new game.
+     * The OnClick method for the New Game button that starts a new game.*
      * @param view The New Game button.
      */
     public void newGame(View view) {
